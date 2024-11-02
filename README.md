@@ -34,3 +34,9 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dat
 
 14. **Shrestha, G., & Deepsikha, M.** (2020). Plant Disease Detection Using CNN. In *2020 IEEE Applied Signal Processing Conference (ASPCON)*.
 
+## Important Links 
+
+https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03049.pdf
+https://ieeexplore.ieee.org/abstract/document/9276722
+https://www.mdpi.com/2073-4395/12/10/2395
+
