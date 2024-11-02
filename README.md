@@ -1,4 +1,4 @@
-# Leaf-Disease-Prediction-
+# Leaf-Disease-Detection
 
 ## Dataset 
 
