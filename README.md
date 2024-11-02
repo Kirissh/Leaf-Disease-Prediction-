@@ -36,7 +36,9 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dat
 
 ## Important Links 
 
-https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03049.pdf
-https://ieeexplore.ieee.org/abstract/document/9276722
-https://www.mdpi.com/2073-4395/12/10/2395
+-- https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03049.pdf
+
+-- https://ieeexplore.ieee.org/abstract/document/9276722
+
+-- https://www.mdpi.com/2073-4395/12/10/2395
 
