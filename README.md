@@ -2,7 +2,7 @@
 
 ## Dataset 
 
-https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/data****
+https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/data
 
 ## References on Plant Disease Detection Using Neural Networks
 
